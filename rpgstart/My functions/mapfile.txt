@@ -1,0 +1,11 @@
+1-Plains-None-Lake
+2-Forest-None-Clearing
+3-Desert-Heat-Oasis
+4-Swamp-Gas-None
+5-Blight-Plague-None
+6-Tundra-Cold-None
+7-Blasted Lands-Heat-None
+8-Cave-Dark-None
+9-City-Variable-None
+10-Village-Variable-None
+11-Camp-Variable-None
